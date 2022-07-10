@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aba76a5a-9579-45fe-925b-630916255b48" name="默认变更列表" comment="shuoyou">
+    <list default="true" id="aba76a5a-9579-45fe-925b-630916255b48" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/get_delete_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/get_writ_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/api_auto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api_auto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 01-05-32report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 01-05-38report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 01-06-02report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 01-06-41report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 10-43-16report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 10-43-30report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 10-43-41report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 21-14-26report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 21-15-29report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-30-41report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-31-45report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-32-05report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-32-56report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-34-45report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-38-05report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-38-30report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-40-38report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-41-30report_bf.py.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/get_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test_delete_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get_delete_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test_getkey.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get_response_key.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/test_response_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get_response_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/test_zhangdan.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_zhangdan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_run/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_run/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +61,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\api_auto" />
       <recent name="E:\pythonProject5\lib" />
       <recent name="C:\Users\15723\PycharmProjects\pythonProject5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python 测试.test_zhangdan.py 中的 Unittest">
-    <configuration name="creat_report" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.get_delete_log">
+    <configuration name="get_delete_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="api_auto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +75,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/creat_report" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creat_report/creat_report.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/get_delete_log.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_delete_report (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="api_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/get_delete_report.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,27 +151,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_delete_report" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="api_auto" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/test_delete_report.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test_zhangdan.py 中的 Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="api_auto" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.get_delete_log" />
+        <item itemvalue="Python 测试.test_zhangdan.test_ceshi.test_canshuhua 的 Unittest" />
+        <item itemvalue="Python.get_delete_report (1)" />
         <item itemvalue="Python 测试.test_zhangdan.py 中的 Unittest" />
         <item itemvalue="Python.run" />
-        <item itemvalue="Python 测试.test_zhangdan.test_ceshi.test_canshuhua 的 Unittest" />
-        <item itemvalue="Python.test_delete_report" />
-        <item itemvalue="Python.creat_report" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657445843194</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="新增文件">
+      <created>1657446607420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657446607420</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +228,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="shuoyou" />
-    <option name="LAST_COMMIT_MESSAGE" value="shuoyou" />
+    <MESSAGE value="新增文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增文件" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

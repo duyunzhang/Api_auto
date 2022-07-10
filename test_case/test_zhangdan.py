@@ -5,8 +5,12 @@
 '''
 
 import requests
-from lib.test_getkey import *
-from lib.test_response_format import *
+
+from lib.get_writ_file import test_write_file
+from lib.get_response_key import *
+from lib.get_response_format import *
+from lib import get_log
+log= get_log.Log().log()
 
 import unittest
 
@@ -29,6 +33,7 @@ class test_ceshi(unittest.TestCase):
         valus = getkey(res, 'com')
         # print(m+'\n'+'-*-*'*10)
         print('com的字段值'+ valus)
+        test_write_file(get_response1(res))
         return valus
 
         # res = res.json()
@@ -48,8 +53,12 @@ class test_ceshi(unittest.TestCase):
                   }
         res = requests.get(url=url, params=params)
         valus = getkey(res,'com')
-        self.assertEqual('zhongtonG',valus)
-        get_response(res)
+        self.assertEqual('zhongtong',valus)
+        get_response(res) #打印返回结果
+        test_write_file(get_response1(res))
+        log.info("url:{}，"
+                 "请求参数:{},"
+                 "请求结果:{}".format(url, params,get_response1(res)))
 
         print('传参值\n' + str(params))
 
