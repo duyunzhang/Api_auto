@@ -9,4 +9,4 @@ import configparser
 conf = configparser.ConfigParser()
 conf.read('../config/config.ini')#配置文件路径
 '''获取url'''
-path_url =conf.get('DEFAULT','url')
+path_url =conf.get('DEFAULT','url')#url写在配置文件里
