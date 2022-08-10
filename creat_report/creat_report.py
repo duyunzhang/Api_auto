@@ -31,7 +31,7 @@ class report:
         #执行用例生成报告
         report_path = '../html_report\\'  #报告存储地址
 
-        BeautifulReport.BeautifulReport(dis).report(filename=reportname, report_dir=report_path, description='订单状态')
+        BeautifulReport.BeautifulReport(dis).report(filename=reportname, report_dir=report_path, description='测试报告')
 
     def test_creat_HTreport(self):
         '''HTMLTestRunner测试报告'''

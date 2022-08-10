@@ -1,36 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aba76a5a-9579-45fe-925b-630916255b48" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/get_delete_log.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/get_writ_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/api_auto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/api_auto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="aba76a5a-9579-45fe-925b-630916255b48" name="默认变更列表" comment="代码修改">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/dingdan.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/get_url.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 01-05-32report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 01-05-38report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 01-06-02report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 01-06-41report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 10-43-16report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 10-43-30report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 10-43-41report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 21-14-26report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 21-15-29report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-30-41report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-31-45report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-32-05report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-32-56report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-34-45report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-38-05report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-38-30report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-40-38report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_report/2022-07-09 23-41-30report_bf.py.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/get_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get_log.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/test_delete_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get_delete_report.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/test_getkey.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get_response_key.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/test_response_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/get_response_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/creat_report/creat_report.py" beforeDir="false" afterPath="$PROJECT_DIR$/creat_report/creat_report.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/html_report" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/report.py.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_case/test_zhangdan.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_zhangdan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_run/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_run/run.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2BenDWSvvAVODSlnVLjtsSSGQPS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,6 +41,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -66,8 +53,8 @@
       <recent name="C:\Users\15723\PycharmProjects\pythonProject5" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.get_delete_log">
-    <configuration name="get_delete_log" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.get_url">
+    <configuration name="creat_report" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="api_auto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +62,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/creat_report" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/get_delete_log.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/creat_report/creat_report.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_delete_report (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_url" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="api_auto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +88,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/get_delete_report.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/get_url.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,6 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -142,6 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_run/run.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -151,7 +142,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_zhangdan.py 中的 Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Python 测试 (get_delete_report.py 内)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="api_auto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/lib/get_delete_report.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittest (test_zhangdan.py 内)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="api_auto" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,32 +166,19 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/test_zhangdan.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="test_zhangdan.test_ceshi.test_canshuhua 的 Unittest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="api_auto" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_zhangdan.test_ceshi.test_canshuhua&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.get_delete_log" />
-        <item itemvalue="Python 测试.test_zhangdan.test_ceshi.test_canshuhua 的 Unittest" />
-        <item itemvalue="Python.get_delete_report (1)" />
-        <item itemvalue="Python 测试.test_zhangdan.py 中的 Unittest" />
+        <item itemvalue="Python.get_url" />
+        <item itemvalue="Python 测试.Unittest (test_zhangdan.py 内)" />
         <item itemvalue="Python.run" />
+        <item itemvalue="Python 测试.Python 测试 (get_delete_report.py 内)" />
+        <item itemvalue="Python.creat_report" />
       </list>
     </recent_temporary>
   </component>
@@ -197,6 +190,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657275298841</updated>
+      <workItem from="1660120258568" duration="2772000" />
+      <workItem from="1660123109428" duration="1328000" />
     </task>
     <task id="LOCAL-00001" summary="shuoyou">
       <created>1657445843194</created>
@@ -212,15 +207,44 @@
       <option name="project" value="LOCAL" />
       <updated>1657446607420</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="代买修改">
+      <created>1657621212709</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657621212709</updated>
+    </task>
+    <task id="LOCAL-00004" summary="代码修改">
+      <created>1657621518779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657621518779</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -229,7 +253,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="shuoyou" />
     <MESSAGE value="新增文件" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增文件" />
+    <MESSAGE value="代买修改" />
+    <MESSAGE value="代码修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="代码修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -239,7 +265,21 @@
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test_case/test_zhangdan.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/api_auto$creat_report.coverage" NAME="creat_report 覆盖结果" MODIFIED="1660120807017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/creat_report" />
+    <SUITE FILE_PATH="coverage/api_auto$run.coverage" NAME="run 覆盖结果" MODIFIED="1660122833552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_run" />
+    <SUITE FILE_PATH="coverage/api_auto$.coverage" NAME=" 覆盖结果" MODIFIED="1660123021409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/api_auto$Unittest__test_zhangdan_py__.coverage" NAME="Unittest (test_zhangdan.py 内) 覆盖结果" MODIFIED="1660121875418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/api_auto_dingdan$run.coverage" NAME="run 覆盖结果" MODIFIED="1660124065183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_run" />
+    <SUITE FILE_PATH="coverage/api_auto_dingdan$get_url.coverage" NAME="get_url 覆盖结果" MODIFIED="1660124440859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
+    <SUITE FILE_PATH="coverage/api_auto_dingdan$Unittest__test_zhangdan_py__.coverage" NAME="Unittest (test_zhangdan.py 内) 覆盖结果" MODIFIED="1660124309483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
   </component>
 </project>

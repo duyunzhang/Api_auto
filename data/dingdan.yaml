@@ -1,0 +1,17 @@
+-
+  describe: '类别错误'
+  data:
+    type: 'zhongton'
+    postid: '75527538262087'
+
+-
+  describe: '订单号错误'
+  data:
+    type: 'zhongtong'
+    postid: ''
+
+-
+  describe: '正确入参'
+  data:
+    type: 'zhongtong'
+    postid: '75527538262087'
