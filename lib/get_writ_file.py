@@ -14,5 +14,5 @@ def test_write_file(self):
 
     #addr = "../" + date  #拼接文件路径名  [../] 表示在当前项目根目录下
 
-    with open(address,'w',encoding='utf8') as f:
+    with open(address,'a',encoding='utf8') as f:
         f.write(self)

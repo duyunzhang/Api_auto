@@ -75,9 +75,10 @@ class test_ceshi(unittest.TestCase):
 
         get_response(res) #打印返回结果
         test_write_file(get_response1(res))
-        # log.info("url:{}，"
-        #          "请求参数:{},"
-        #          "请求结果:{}".format(url, params,get_response1(res)))
+        log.info("'"
+                 "\nurl:{}"
+                 "\n请求参数:{},"
+                 "\n请求结果:{}".format(url, params,get_response1(res)))
 
         print('传参值\n' + str(params))
     @file_data('../data/canshu.yaml')
